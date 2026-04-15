@@ -69,3 +69,5 @@ eda-agent/
 └── README.md
 ```
 ![Demo](demo.png)
+
+[**Try the Live Demo**](https://agentic-eda-pipeline-xpgvu5m34ozpsmp8xbx7h9.streamlit.app/)
